@@ -23,7 +23,6 @@ SimpleCalculator/
 
 └── README.md
 
-Albatta, quyida **yanada to‘liq, professional ko‘rinishda** yozilgan `README.md` faylini taqdim etaman. Bu versiyada loyiha haqida batafsil ma'lumot, foydalanish bosqichlari, texnologiyalar, commit struktura, litsenziya va boshqa qo‘shimcha qismlar mavjud.
 
 ---
 
@@ -80,6 +79,8 @@ SimpleCalculator/
 ```bash
 git clone https://github.com/username/simple-java-calculator.git
 cd simple-java-calculator
+```
+
 ````
 
 2. Kompilyatsiya qiling:
