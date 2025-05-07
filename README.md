@@ -71,12 +71,12 @@ SimpleCalculator/
 
 ````
 
-
+---
 
 ## 🚀 Ishga tushurish (Terminal orqali)
 
 1. Loyihani kompyuteringizga yuklab oling:
----
+
 ```bash
 git clone https://github.com/username/simple-java-calculator.git
 cd simple-java-calculator
