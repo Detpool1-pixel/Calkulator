@@ -54,13 +54,18 @@ SimpleCalculator/
 
 ├── src/
 
+
 │   └── calculator/
+
 
 │       ├── Calculator.java    # Arifmetik funksiyalar
 
+
 │       └── Main.java          # Dastur ishga tushiriladigan nuqta
 
+
 ├── .gitignore                 # Git sozlamalari, keraksiz fayllarni chetga chiqaradi
+
 
 ├── README.md                  # Loyiha haqida batafsil ma'lumot
 
