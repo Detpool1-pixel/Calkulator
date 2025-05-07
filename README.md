@@ -68,8 +68,6 @@ SimpleCalculator/
 
 ├── README.md                  # Loyiha haqida batafsil ma'lumot
 
-````
-
 ---
 
 ## 🚀 Ishga tushurish (Terminal orqali)
@@ -81,7 +79,6 @@ git clone https://github.com/username/simple-java-calculator.git
 cd simple-java-calculator
 ```
 
-````
 
 2. Kompilyatsiya qiling:
 
