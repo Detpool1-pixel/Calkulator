@@ -1,4 +1,4 @@
-# Simple Java Calculator
+## Simple Java Calculator
 
 Bu kichik Java dasturi oddiy kalkulyator bo‘lib, quyidagi amallarni bajaradi:
 
